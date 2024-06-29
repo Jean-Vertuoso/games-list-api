@@ -8,10 +8,12 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
+//indicacao de entidade e criacao da tabela tb_game_list
 @Entity
 @Table(name="tb_game_list")
 public class GameList {
     
+    //indicacao de id e autoincrement
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

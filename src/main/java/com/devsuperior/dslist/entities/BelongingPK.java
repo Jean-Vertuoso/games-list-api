@@ -6,13 +6,16 @@ import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 
+//indicacao de classe para unificacao de chaves
 @Embeddable
 public class BelongingPK {
     
+    //relacao muitos pra um e indicacao de que a coluna game_id correspondente à chave primária da tabela tb_game
     @ManyToOne
     @JoinColumn(name = "game_id")
     private Game game;
     
+    //relacao muitos pra um e indicacao de que a coluna list_id correspondente à chave primária da tabela tb_game_list
     @ManyToOne
     @JoinColumn(name = "list_id")
     private GameList list;

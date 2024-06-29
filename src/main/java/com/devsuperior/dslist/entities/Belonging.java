@@ -6,12 +6,14 @@ import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 
+//indicacao de entidade e criacao da tabela de associacao tb_belonging
 @Entity
 @Table(name="tb_belonging")
 public class Belonging {
     
     private Integer position;
     
+    //indicacao de id unificando duas chaves estrangeiras
     @EmbeddedId
     private BelongingPK id = new BelongingPK();
 

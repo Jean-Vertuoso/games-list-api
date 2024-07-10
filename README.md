@@ -5,7 +5,7 @@
 
 https://games-list-api-production.up.railway.app
 
-Este projeto se trata de uma API REST para entrega de uma coleção de jogos, construída durante o curso **Intensivão Java Spring**, desenvolvido pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Este projeto se trata de uma aplicação backend para entrega de uma coleção de jogos via API REST, construída durante o curso **Intensivão Java Spring**, desenvolvido pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação permite realizar a consulta de uma listagem de jogos separados por categorias, onde é possível obter uma descrição simples ou completa dos jogos.
 

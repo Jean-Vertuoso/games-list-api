@@ -41,4 +41,5 @@ A aplicação também permite reposicionar os jogos na listagem, onde chamando o
 
 Jean da Rocha Vertuoso
 
-https://github.com/Jean-Vertuoso
+[![NPM](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jean-Vertuoso) 
+[![NPM](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-da-rocha-vertuoso/) 

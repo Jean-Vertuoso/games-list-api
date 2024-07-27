@@ -14,7 +14,6 @@ A aplicação também permite reposicionar os jogos na listagem, onde chamando o
 - Desenvolvimento em camadas;
 - Padrão de projeto - DTO;
 - Perfis de projeto;
-- Deploy com CI/CD;
 - Configuração do CORS;
 
 ## Modelo conceitual
@@ -26,7 +25,6 @@ A aplicação também permite reposicionar os jogos na listagem, onde chamando o
 - Apache Netbeans IDE
 - Postman
 - Docker
-- Railway (Deploy)
 
 ## Back end
 - Java Persistente API do Java EE
